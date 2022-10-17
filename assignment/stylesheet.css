@@ -1,0 +1,16 @@
+body {
+    background-image: url("record.png");
+    /* background-repeat: repeat; */
+    margin: 0%;
+
+}
+
+
+header {
+    background-color: rgb(61, 61, 61);
+    color: whitesmoke
+}
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
