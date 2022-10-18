@@ -1,18 +1,18 @@
 body {
-    background-image: url("record.png");
-    background-repeat: repeat;
-    margin: 0%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+  background-image: url("record.png");
+  /* the background repeat is the default, but I made it explicit in the code for clarity */
+  background-repeat: repeat;
+  margin: 0%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-
 .mainHeader {
-    background-color: rgb(61, 61, 61);
-    color: whitesmoke;
-    text-align: center;
+  background-color: rgb(61, 61, 61);
+  color: whitesmoke;
+  text-align: center;
 }
 
 .mainContent {
-    background-color: lightgray;
-    padding: 1em;
+  background-color: lightgray;
+  padding: 1em;
 }
