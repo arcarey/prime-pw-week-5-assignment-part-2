@@ -6,13 +6,13 @@ body {
 }
 
 
-header {
+.mainHeader {
     background-color: rgb(61, 61, 61);
     color: whitesmoke;
     text-align: center;
 }
 
-main {
+.mainContent {
     background-color: lightgray;
     padding: 1em;
 }
